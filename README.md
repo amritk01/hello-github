@@ -6,4 +6,6 @@ this is my demo github repository.
 I'm using it to learn how git and github work.
 
 ## Feature
--Test commits and pushes
+- Test commits and pushes
+- Practice version control
+- Learn about branches and pull requests
